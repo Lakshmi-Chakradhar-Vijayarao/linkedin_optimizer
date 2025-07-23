@@ -71,12 +71,6 @@ Make sure your `.env` file contains:
 
 ---
 
-📸 Screenshot (Optional)
-
-You can add a screenshot of the UI here once deployed or running locally.
-
----
-
 ☁️ Deploy on Streamlit Cloud (Optional)
 
 1. Push this repo to GitHub ✅
